@@ -1,13 +1,21 @@
-# Ciao, sono Nicola 👋
+# Hi, I'm Nicola 👋
 
-Costruisco progetti web interattivi, strumenti pratici ed esperimenti digitali. Mi interessa trasformare idee curiose in esperienze semplici da usare.
+I build **data tools and interactive web projects** — with a special focus on logistics & supply chain, where I worked hands-on for years. I like turning curious ideas into simple, usable experiences.
 
-## Progetti in evidenza
+📍 Italy · 💼 open to Junior Data Analyst / dev roles (remote, IT/EU)
 
-- **[3D Anatomy](https://github.com/nqwrc/3d-anatomy)** — Atlante anatomico interattivo nel browser, con oltre 2.800 strutture esplorabili. [Provalo online](https://nqwrc.github.io/3d-anatomy/)
-- **[Glowbind](https://github.com/nqwrc/glowbind)** — Sfida interattiva per imparare scorciatoie da tastiera, con supporto opzionale per tastiere RGB. [Provalo online](https://nqwrc.github.io/glowbind/)
-- **[Bambini S.p.A. Website](https://github.com/nqwrc/bambini-spa-website)** — Sito web responsive per raccontare identità, storia e presenza digitale di un’azienda. [Provalo online](https://nqwrc.github.io/bambini-spa-website/)
+📫 nicola.pandolfi@proton.me
 
-## In questo profilo
+## Featured projects
 
-Qui trovi progetti di web development, automazione, visualizzazione e piccoli strumenti costruiti per imparare e sperimentare.
+- **[3D Anatomy](https://github.com/nqwrc/3d-anatomy)** — interactive anatomical atlas in the browser, 2,800+ explorable structures · [try it live](https://nqwrc.github.io/3d-anatomy/)
+- **[Glowbind](https://github.com/nqwrc/glowbind)** — interactive challenge for learning keyboard shortcuts, with optional RGB keyboard support · [try it live](https://nqwrc.github.io/glowbind/)
+- **[Bambini S.p.A. Website](https://github.com/nqwrc/bambini-spa-website)** — responsive company website · [see it live](https://nqwrc.github.io/bambini-spa-website/)
+
+## Coming up — data & analytics
+
+Three supply-chain analytics projects built on synthetic datasets modeled on real operations I worked in: **warehouse KPIs**, **transport performance**, and an **automated QA reporting pipeline** (Python · SQL · Streamlit).
+
+## Toolbox
+
+`Python` `pandas` `SQL` `TypeScript` `JavaScript` `three.js` `Git` `Excel / Power Query`
